@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-apache-flink
+    profiles:
+        active: dev
+server:
+    port: 8080

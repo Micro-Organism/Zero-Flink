@@ -1,0 +1,6 @@
+spring:
+    application:
+        name: zero-apache-flink
+flink:
+    job-manager-host: 172.24.4.193
+    job-manager-port: 8082
